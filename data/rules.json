@@ -1,0 +1,187 @@
+{
+  "piani": {
+    "Standard": {
+      "costo_mensile": 0.00,
+      "costo_annuale": 0.00,
+      "costo_duo_addon": 0.00,
+      "limiti": {
+        "prelievi_atm": 200,
+        "cambio_valuta": 1000
+      },
+      "commissioni": {
+        "prelievi_atm_over": 0.02,
+        "cambio_valuta_over": 0.01,
+        "crypto": 0.0149,
+        "borsa": 0.0025
+      },
+      "interessi_deposito": 0.015,
+      "revpoints_rate": 1,
+      "revpoints_step": 10,
+      "cashback_pro": 0.004,
+      "lounge_gratis": 0
+    },
+    "Plus": {
+      "costo_mensile": 3.99,
+      "costo_annuale": 40.00,
+      "costo_duo_addon": 2.00,
+      "limiti": {
+        "prelievi_atm": 200,
+        "cambio_valuta": 3000
+      },
+      "commissioni": {
+        "prelievi_atm_over": 0.02,
+        "cambio_valuta_over": 0.005,
+        "crypto": 0.0149,
+        "borsa": 0.0025
+      },
+      "interessi_deposito": 0.015,
+      "revpoints_rate": 1,
+      "revpoints_step": 10,
+      "cashback_pro": 0.004,
+      "lounge_gratis": 0
+    },
+    "Premium": {
+      "costo_mensile": 9.99,
+      "costo_annuale": 100.00,
+      "costo_duo_addon": 4.00,
+      "limiti": {
+        "prelievi_atm": 400,
+        "cambio_valuta": 999999999
+      },
+      "commissioni": {
+        "prelievi_atm_over": 0.02,
+        "cambio_valuta_over": 0.0,
+        "crypto": 0.0099,
+        "borsa": 0.0025
+      },
+      "interessi_deposito": 0.02,
+      "revpoints_rate": 1,
+      "revpoints_step": 4,
+      "cashback_pro": 0.006,
+      "lounge_gratis": 0
+    },
+    "Metal": {
+      "costo_mensile": 15.99,
+      "costo_annuale": 160.00,
+      "costo_duo_addon": 6.00,
+      "limiti": {
+        "prelievi_atm": 800,
+        "cambio_valuta": 999999999
+      },
+      "commissioni": {
+        "prelievi_atm_over": 0.02,
+        "cambio_valuta_over": 0.0,
+        "crypto": 0.0099,
+        "borsa": 0.0025
+      },
+      "interessi_deposito": 0.0225,
+      "revpoints_rate": 1,
+      "revpoints_step": 2,
+      "cashback_pro": 0.008,
+      "lounge_gratis": 0
+    },
+    "Ultra": {
+      "costo_mensile": 55.00,
+      "costo_annuale": 540.00,
+      "costo_duo_addon": 15.00,
+      "limiti": {
+        "prelievi_atm": 2000,
+        "cambio_valuta": 999999999
+      },
+      "commissioni": {
+        "prelievi_atm_over": 0.02,
+        "cambio_valuta_over": 0.0,
+        "crypto": 0.0049,
+        "borsa": 0.0012
+      },
+      "interessi_deposito": 0.025,
+      "revpoints_rate": 1,
+      "revpoints_step": 1,
+      "cashback_pro": 0.01,
+      "lounge_gratis": 999
+    }
+  },
+  "benchmark_banca": {
+    "fee_atm_altri": 2.00,
+    "fee_cambio_valuta": 0.02,
+    "fee_crypto": 0.025,
+    "fee_borsa": 0.0025
+  },
+  "partners_list": [
+    {
+      "name": "NordVPN",
+      "val": 80,
+      "min_plan": "Premium"
+    },
+    {
+      "name": "Corriere della Sera",
+      "val": 100,
+      "min_plan": "Premium"
+    },
+    {
+      "name": "Gazzetta dello Sport",
+      "val": 60,
+      "min_plan": "Premium"
+    },
+    {
+      "name": "Tinder",
+      "val": 80,
+      "min_plan": "Premium"
+    },
+    {
+      "name": "Headspace",
+      "val": 60,
+      "min_plan": "Premium"
+    },
+    {
+      "name": "Freeletics",
+      "val": 80,
+      "min_plan": "Premium"
+    },
+    {
+      "name": "Picsart",
+      "val": 35,
+      "min_plan": "Premium"
+    },
+    {
+      "name": "Sleep Cycle",
+      "val": 30,
+      "min_plan": "Premium"
+    },
+    {
+      "name": "Perplexity (AI)",
+      "val": 200,
+      "min_plan": "Premium"
+    },
+    {
+      "name": "Financial Times",
+      "val": 300,
+      "min_plan": "Metal"
+    },
+    {
+      "name": "WeWork",
+      "val": 300,
+      "min_plan": "Metal"
+    },
+    {
+      "name": "MasterClass",
+      "val": 180,
+      "min_plan": "Metal"
+    },
+    {
+      "name": "The Athletic",
+      "val": 70,
+      "min_plan": "Metal"
+    },
+    {
+      "name": "Chess.com",
+      "val": 100,
+      "min_plan": "Metal"
+    },
+    {
+      "name": "Headway",
+      "val": 90,
+      "min_plan": "Metal"
+    }
+  ]
+}
