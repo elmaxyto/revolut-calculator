@@ -206,8 +206,8 @@ with st.sidebar:
 **Informativa semplificata ai sensi dell'art. 13 del Regolamento UE 2016/679 (GDPR)**
 
 **1. Titolare del Trattamento**
-Il titolare del trattamento è: **Massimo Slomp**
-Contatto per privacy e cancellazione: **massimo.spooky@gmail.com**
+Il titolare del trattamento è: **l'amministratore di Budget Tech Ita**
+Contatto per privacy e cancellazione: **budgettechita@gmail.com**
 
 **2. Dati raccolti e Finalità**
 Raccogliamo il tuo indirizzo email esclusivamente per:
@@ -519,8 +519,8 @@ if data_loaded:
 **Informativa semplificata ai sensi dell'art. 13 del Regolamento UE 2016/679 (GDPR)**
 
 **1. Titolare del Trattamento**
-Il titolare del trattamento è: **Massimo Slomp**
-Contatto per privacy e cancellazione: **massimo.spooky@gmail.com**
+Il titolare del trattamento è: **l'amministratore di Budget Tech Ita**
+Contatto per privacy e cancellazione: **budgettechita@gmail.com**
 
 **2. Dati raccolti e Finalità**
 Raccogliamo il tuo indirizzo email esclusivamente per:
